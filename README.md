@@ -7,6 +7,11 @@ An AI-powered memory interface that helps organize and recall personal history, 
 - Uses local + cloud AI models to assist with recall
 - Built with real users in mind — not just tech demos
 
+## Interaction
+
+MemoryAssistant is designed for non-traditional input — a custom physical interface tailored for accessibility and clarity. Current development uses a modular control deck for prototyping.
+
+
 ## Tech Stack
 Python · SQLite · Flask · Ollama · OpenAI · Stream Deck · OCR
 
